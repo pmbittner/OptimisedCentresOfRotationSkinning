@@ -2,6 +2,13 @@
 
 An example on how to use the library is given in `example.cpp`.
 
+The CMake file is tested on Linux, but should work on Windows as well.
+
+When compiled with the flag `COR_ENABLE_PROFILING`, the `CoRCalculator` will print the times it has needed for each step.
+
+### Dependencies
+This library solely depends on the head-only library [`glm`](https://glm.g-truc.net/0.9.9/index.html).
+On Linux, installing `libglm-dev` with `apt` suffices.
 
 ### Shader
 We provide GLSL vertex shader logic for these three skeletal skinning techniques:
