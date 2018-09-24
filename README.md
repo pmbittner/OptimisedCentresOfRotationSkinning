@@ -6,6 +6,8 @@ The CMake file is tested on Linux, but should work on Windows as well.
 
 When compiled with the flag `COR_ENABLE_PROFILING`, the `CoRCalculator` will print the times it has needed for each step.
 
+The library has to be linked with the option `-pthread`, as it uses multithreading ([std::async](http://www.cplusplus.com/reference/future/async/)).
+
 ### Dependencies
 This library solely depends on the head-only library [`glm`](https://glm.g-truc.net/0.9.9/index.html).
 On Linux, installing `libglm-dev` with `apt` suffices.
