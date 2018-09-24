@@ -1,3 +1,7 @@
+# CLion
+cmake-build-*
+.idea
+
 # ---> C++
 # Compiled Object files
 *.slo
