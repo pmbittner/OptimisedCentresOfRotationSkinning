@@ -1,4 +1,4 @@
-# CoRCalculator - Library for centres of rotation computation for [Optimised Centres of Rotation Skinning][1]
+# CoRCalculator - Library to Compute Centres of Rotation for [Optimised Centres of Rotation Skinning][1]
 An example on how to use the library is given in `example.cpp`.
 
 The CMake file is tested on Linux and Windows.
