@@ -8,7 +8,7 @@ int main(int argc, char** argv) {
     using namespace CoR;
 
     std::vector<glm::vec3> vertices; // get some vertices here
-    std::vector<unsigned int> faces; // Triangle data: Three consecutive values describe a triangle.
+    std::vector<unsigned int> faces; // Triangle data: Three consecutive indices describe a triangle.
     std::vector<std::vector<unsigned int>> boneIndices; // bone indices for each vertex
     std::vector<std::vector<float>> boneWeights; // weights for each vertex
     unsigned int numberOfBones;
