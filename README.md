@@ -8,9 +8,9 @@ When compiled with the flag `COR_ENABLE_PROFILING`, the `CoRCalculator` will pri
 The library has to be linked with the option `-pthread`, as it uses multithreading ([std::async](http://www.cplusplus.com/reference/future/async/)).
 
 ### Dependencies
-This library solely depends on the head-only library [`glm`](https://glm.g-truc.net/0.9.9/index.html).
+This library solely depends on the header-only library [`glm`][4].
 On Linux, installing `libglm-dev` with `apt` suffices.
-On Windows, finding GLM may require some changes, as we do it manually.
+On Windows, finding [`glm`][4] may require some changes, as we do it manually.
 
 ### Shader
 We provide GLSL vertex shader logic for these three skeletal skinning techniques:
@@ -84,3 +84,4 @@ report on research using this Software.
 [1]: http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.14.9310
 [2]: https://dl.acm.org/citation.cfm?id=1230107
 [3]: https://dl.acm.org/citation.cfm?id=2925959
+[4]: https://glm.g-truc.net/0.9.9/index.html
