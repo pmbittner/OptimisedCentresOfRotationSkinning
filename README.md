@@ -62,6 +62,12 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-You understand and agree that the authors are under no obligation to provide either maintenance services, update services, notices of latent defects, or corrections of defects with regard to the Software. The authors nevertheless reserve the right to update, modify, or discontinue the Software at any time.
+You understand and agree that the authors are under no obligation to provide
+either maintenance services, update services, notices of latent defects, or
+corrections of defects with regard to the Software. The authors nevertheless
+reserve the right to update, modify, or discontinue the Software at any time.
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. You agree to cite the Evaluation of Optimised Centres of Rotation Skinning paper in documents and papers that report on research using this Software.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software. You agree to cite the Evaluation
+of Optimised Centres of Rotation Skinning paper in documents and papers that
+report on research using this Software.
