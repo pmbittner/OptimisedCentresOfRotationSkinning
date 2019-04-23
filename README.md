@@ -30,11 +30,11 @@ This repository contains code corresponding to:
 
 [P. Bittner, JP Tauscher, S. Grogorick, M. Magnor. Evaluation of Optimised Centres of Rotation Skinning. In _Proc. International Conference on Computational Visual Media (CVM)_ 2019](https://graphics.tu-bs.de/publications/bittner2019evaluation)
 
-[N.  Magnenat-Thalmann,  R.  Laperrire,  and  D. Thalmann. Joint-dependent local deformations for hand animation and object grasping. In _Proceedings on Graphics interface’88. Citeseer_, 1988](1)
+[N.  Magnenat-Thalmann,  R.  Laperrire,  and  D. Thalmann. Joint-dependent local deformations for hand animation and object grasping. In _Proceedings on Graphics interface’88. Citeseer_, 1988][1]
 
-[L. Kavan, S. Collins, J.Žára, and C. O'Sullivan. Skinning with dual quaternions. In _Proceedings of the 2007 symposium on Interactive 3D graphics and games, pages 39–46.ACM_, 2007](2)
+[L. Kavan, S. Collins, J.Žára, and C. O'Sullivan. Skinning with dual quaternions. In _Proceedings of the 2007 symposium on Interactive 3D graphics and games, pages 39–46.ACM_, 2007][2]
 
-[B. H. Le and J. K. Hodgins. Real-time skeletal skinning with optimized centers of rotation. _ACM Transactions on Graphics (TOG)_, 35(4):37, 2016](3)
+[B. H. Le and J. K. Hodgins. Real-time skeletal skinning with optimized centers of rotation. _ACM Transactions on Graphics (TOG)_, 35(4):37, 2016][3]
 
 Please cite as:
 
