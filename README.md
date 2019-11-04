@@ -38,10 +38,11 @@ This repository contains code corresponding to:
 
 Please cite as:
 
-    @inproceedings{bittner2019evaluation,
+    @misc{bittner2019evaluation,
       title = {Evaluation of Optimised Centres of Rotation Skinning},
       author = {Bittner, Paul Maximilian and Tauscher, Jan-Philipp and Grogorick, Steve and Magnor, Marcus},
-      booktitle = {Proc. International Conference on Computational Visual Media ({CVM})},
+      howpublished = {Poster @ International Conference on Computational Visual Media 2019},
+      month = {Apr},
       year = {2019}
     }
 
