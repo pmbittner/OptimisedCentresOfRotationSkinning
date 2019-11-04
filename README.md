@@ -28,7 +28,7 @@ We split these files so that you may pick what you need, since the `skeletons.gl
 ### Citation
 This repository contains code corresponding to:
 
-[P. Bittner, JP Tauscher, S. Grogorick, M. Magnor. Evaluation of Optimised Centres of Rotation Skinning. In _Proc. International Conference on Computational Visual Media (CVM)_ 2019](https://graphics.tu-bs.de/publications/bittner2019evaluation)
+[P. Bittner, JP Tauscher, S. Grogorick, M. Magnor. Evaluation of Optimised Centres of Rotation Skinning. _Poster @ International Conference on Computational Visual Media (CVM)_ 2019](https://graphics.tu-bs.de/publications/bittner2019evaluation)
 
 [N.  Magnenat-Thalmann,  R.  Laperrire,  and  D. Thalmann. Joint-dependent local deformations for hand animation and object grasping. In _Proceedings on Graphics interface’88. Citeseer_, 1988][1]
 
