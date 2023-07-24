@@ -46,42 +46,6 @@ Please cite as:
       year = {2019}
     }
 
-### License
-
-Copyright (c) 2019 Paul Maximilian Bittner, Technische Universität Braunschweig
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-You understand and agree that the authors are under no obligation to provide
-either maintenance services, update services, notices of latent defects, or
-corrections of defects with regard to the Software. The authors nevertheless
-reserve the right to update, modify, or discontinue the Software at any time.
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software. You agree to cite the papers
-"Evaluation of Optimised Centres of Rotation Skinning",
-"Joint-dependent local deformations for hand animation and object grasping",
-"Skinning with dual quaternions"
-and "Real-time skeletal skinning with optimized centers of rotation"
-in documents and papers that
-report on research using this Software.
-
 [1]: http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.14.9310
 [2]: https://dl.acm.org/citation.cfm?id=1230107
 [3]: https://dl.acm.org/citation.cfm?id=2925959
