@@ -1,3 +1,6 @@
+[![Thesis](https://img.shields.io/badge/Bachelor's_Thesis-Read-purple)][thesis]
+[![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE.MIT)
+
 # CoRCalculator - Library to Compute Centres of Rotation for [Optimised Centres of Rotation Skinning][3]
 An example on how to use the library is given in `example.cpp`.
 
@@ -28,7 +31,7 @@ We split these files so that you may pick what you need, since the `skeletons.gl
 ### Citation
 This repository contains code corresponding to:
 
-[P. Bittner, JP Tauscher, S. Grogorick, M. Magnor. Evaluation of Optimised Centres of Rotation Skinning. _Poster @ International Conference on Computational Visual Media (CVM)_ 2019](https://graphics.tu-bs.de/publications/bittner2019evaluation)
+[P. Bittner, JP Tauscher, S. Grogorick, M. Magnor. Evaluation of Optimised Centres of Rotation Skinning. _Poster @ International Conference on Computational Visual Media (CVM)_ 2019][thesis]
 
 [N.  Magnenat-Thalmann,  R.  Laperrire,  and  D. Thalmann. Joint-dependent local deformations for hand animation and object grasping. In _Proceedings on Graphics interface’88. Citeseer_, 1988][1]
 
@@ -50,3 +53,4 @@ Please cite as:
 [2]: https://dl.acm.org/citation.cfm?id=1230107
 [3]: https://dl.acm.org/citation.cfm?id=2925959
 [4]: https://glm.g-truc.net/0.9.9/index.html
+[thesis]: https://graphics.tu-bs.de/publications/bittner2019evaluation
