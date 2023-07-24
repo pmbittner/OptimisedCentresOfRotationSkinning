@@ -2,6 +2,12 @@
 [![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE.MIT)
 
 # CoRCalculator - Library to Compute Centres of Rotation for [Optimised Centres of Rotation Skinning][3]
+
+This is a small C++ library and re-implementation to compute optimized centres of rotation for skinning 3D graphical models with the skinning method proposed by _Le and Hodgins_ in 2016 in their paper [_Real-time Skeletal Skinning with Optimized Centers of Rotation_][3].
+Moreover, the library contains GLSL shaders for optimized centres of rotation skinning as well as for the classical [linear blend skinning][1] and [dual-quaternion skinning][2].
+Le and Hodgins present their method in [this video](https://www.youtube.com/watch?v=DfIfcQiC2oA).
+
+### Instructions
 An example on how to use the library is given in `example.cpp`.
 
 The CMake file is tested on Linux and Windows.
