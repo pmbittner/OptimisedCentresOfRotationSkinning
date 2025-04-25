@@ -22,8 +22,8 @@ int main(int argc, char** argv) {
     bool performSubdivision = true;
 
     // Choose one
-    CoRCalculator c(sigma, omega, performSubdivision, numberOfThreadsToUse);
-    //BFSCoRCalculator cs(sigma, omega, performSubdivision, numberOfThreadsToUse, bfsEpsilon);
+    //CoRCalculator c(sigma, omega, performSubdivision, numberOfThreadsToUse); // default "naive" implementation
+    BFSCoRCalculator c(sigma, omega, performSubdivision, numberOfThreadsToUse, bfsEpsilon); // implementation with BFS optimiztation
 
     // Create Mesh of CoRCalculation API with conversion methods
     std::vector<WeightsPerBone> weightsPerBone = c.convertWeights(numberOfBones, boneIndices, boneWeights);
